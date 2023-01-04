@@ -1,0 +1,21 @@
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+div{
+    border: solid 1px black;
+    padding: 1rem;
+}
+
+.red, .yellow{
+    border-style: dashed;
+}
+
+#purple{
+    background-color: purple;
+}
